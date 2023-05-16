@@ -1,0 +1,10 @@
+C:\Users\enes\Desktop\Software\apigateway\Microservices\Services\ReservationAPI\Reservation.API.Models\bin\Debug\netcoreapp3.1\Reservation.API.Models.deps.json
+C:\Users\enes\Desktop\Software\apigateway\Microservices\Services\ReservationAPI\Reservation.API.Models\bin\Debug\netcoreapp3.1\Reservation.API.Models.dll
+C:\Users\enes\Desktop\Software\apigateway\Microservices\Services\ReservationAPI\Reservation.API.Models\bin\Debug\netcoreapp3.1\Reservation.API.Models.pdb
+C:\Users\enes\Desktop\Software\apigateway\Microservices\Services\ReservationAPI\Reservation.API.Models\obj\Debug\netcoreapp3.1\Reservation.API.Models.csproj.AssemblyReference.cache
+C:\Users\enes\Desktop\Software\apigateway\Microservices\Services\ReservationAPI\Reservation.API.Models\obj\Debug\netcoreapp3.1\Reservation.API.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enes\Desktop\Software\apigateway\Microservices\Services\ReservationAPI\Reservation.API.Models\obj\Debug\netcoreapp3.1\Reservation.API.Models.AssemblyInfoInputs.cache
+C:\Users\enes\Desktop\Software\apigateway\Microservices\Services\ReservationAPI\Reservation.API.Models\obj\Debug\netcoreapp3.1\Reservation.API.Models.AssemblyInfo.cs
+C:\Users\enes\Desktop\Software\apigateway\Microservices\Services\ReservationAPI\Reservation.API.Models\obj\Debug\netcoreapp3.1\Reservation.API.Models.csproj.CoreCompileInputs.cache
+C:\Users\enes\Desktop\Software\apigateway\Microservices\Services\ReservationAPI\Reservation.API.Models\obj\Debug\netcoreapp3.1\Reservation.API.Models.dll
+C:\Users\enes\Desktop\Software\apigateway\Microservices\Services\ReservationAPI\Reservation.API.Models\obj\Debug\netcoreapp3.1\Reservation.API.Models.pdb

@@ -1,0 +1,108 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Contact.API.Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Contact.API.Models": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Contact.API.Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contact.API.Infrastructure.dll": {}
+        }
+      },
+      "Contact.API.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Contact.API.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contact.API.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Contact.API.Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../Services/ContactAPI/Contact.API.Infrastructure/Contact.API.Infrastructure.csproj",
+      "msbuildProject": "../Services/ContactAPI/Contact.API.Infrastructure/Contact.API.Infrastructure.csproj"
+    },
+    "Contact.API.Models/1.0.0": {
+      "type": "project",
+      "path": "../Services/ContactAPI/Contact.API.Models/Contact.API.Models.csproj",
+      "msbuildProject": "../Services/ContactAPI/Contact.API.Models/Contact.API.Models.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "Contact.API.Infrastructure >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\enes\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\enes\\Desktop\\Software\\apigateway\\Microservices\\Contact.API.Services\\Contact.API.Services.csproj",
+      "projectName": "Contact.API.Services",
+      "projectPath": "C:\\Users\\enes\\Desktop\\Software\\apigateway\\Microservices\\Contact.API.Services\\Contact.API.Services.csproj",
+      "packagesPath": "C:\\Users\\enes\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\enes\\Desktop\\Software\\apigateway\\Microservices\\Contact.API.Services\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\enes\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "C:\\Users\\enes\\Desktop\\Software\\apigateway\\Microservices\\Services\\ContactAPI\\Contact.API.Infrastructure\\Contact.API.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\enes\\Desktop\\Software\\apigateway\\Microservices\\Services\\ContactAPI\\Contact.API.Infrastructure\\Contact.API.Infrastructure.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.412\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

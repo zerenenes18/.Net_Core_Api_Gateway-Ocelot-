@@ -1,0 +1,6 @@
+C:\Users\enes\Desktop\Software\apigateway\Microservices\Services\ReservationAPI\obj\Debug\netcoreapp3.1\Reservation.API.csproj.AssemblyReference.cache
+C:\Users\enes\Desktop\Software\apigateway\Microservices\Services\ReservationAPI\obj\Debug\netcoreapp3.1\Reservation.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enes\Desktop\Software\apigateway\Microservices\Services\ReservationAPI\obj\Debug\netcoreapp3.1\Reservation.API.AssemblyInfoInputs.cache
+C:\Users\enes\Desktop\Software\apigateway\Microservices\Services\ReservationAPI\obj\Debug\netcoreapp3.1\Reservation.API.AssemblyInfo.cs
+C:\Users\enes\Desktop\Software\apigateway\Microservices\Services\ReservationAPI\obj\Debug\netcoreapp3.1\Reservation.API.csproj.CoreCompileInputs.cache
+C:\Users\enes\Desktop\Software\apigateway\Microservices\Services\ReservationAPI\obj\Debug\netcoreapp3.1\Reservation.API.MvcApplicationPartsAssemblyInfo.cache

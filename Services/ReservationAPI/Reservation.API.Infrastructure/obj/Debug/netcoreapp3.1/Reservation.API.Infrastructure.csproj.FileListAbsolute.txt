@@ -1,0 +1,13 @@
+C:\Users\enes\Desktop\Software\apigateway\Microservices\Services\ReservationAPI\Reservation.API.Infrastructure\bin\Debug\netcoreapp3.1\Reservation.API.Infrastructure.deps.json
+C:\Users\enes\Desktop\Software\apigateway\Microservices\Services\ReservationAPI\Reservation.API.Infrastructure\bin\Debug\netcoreapp3.1\Reservation.API.Infrastructure.dll
+C:\Users\enes\Desktop\Software\apigateway\Microservices\Services\ReservationAPI\Reservation.API.Infrastructure\bin\Debug\netcoreapp3.1\Reservation.API.Infrastructure.pdb
+C:\Users\enes\Desktop\Software\apigateway\Microservices\Services\ReservationAPI\Reservation.API.Infrastructure\bin\Debug\netcoreapp3.1\Reservation.API.Models.dll
+C:\Users\enes\Desktop\Software\apigateway\Microservices\Services\ReservationAPI\Reservation.API.Infrastructure\bin\Debug\netcoreapp3.1\Reservation.API.Models.pdb
+C:\Users\enes\Desktop\Software\apigateway\Microservices\Services\ReservationAPI\Reservation.API.Infrastructure\obj\Debug\netcoreapp3.1\Reservation.API.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\enes\Desktop\Software\apigateway\Microservices\Services\ReservationAPI\Reservation.API.Infrastructure\obj\Debug\netcoreapp3.1\Reservation.API.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enes\Desktop\Software\apigateway\Microservices\Services\ReservationAPI\Reservation.API.Infrastructure\obj\Debug\netcoreapp3.1\Reservation.API.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\enes\Desktop\Software\apigateway\Microservices\Services\ReservationAPI\Reservation.API.Infrastructure\obj\Debug\netcoreapp3.1\Reservation.API.Infrastructure.AssemblyInfo.cs
+C:\Users\enes\Desktop\Software\apigateway\Microservices\Services\ReservationAPI\Reservation.API.Infrastructure\obj\Debug\netcoreapp3.1\Reservation.API.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\enes\Desktop\Software\apigateway\Microservices\Services\ReservationAPI\Reservation.API.Infrastructure\obj\Debug\netcoreapp3.1\Reservation.API.Infrastructure.csproj.CopyComplete
+C:\Users\enes\Desktop\Software\apigateway\Microservices\Services\ReservationAPI\Reservation.API.Infrastructure\obj\Debug\netcoreapp3.1\Reservation.API.Infrastructure.dll
+C:\Users\enes\Desktop\Software\apigateway\Microservices\Services\ReservationAPI\Reservation.API.Infrastructure\obj\Debug\netcoreapp3.1\Reservation.API.Infrastructure.pdb

@@ -1,0 +1,13 @@
+C:\Users\enes\Desktop\Software\apigateway\Microservices\Services\ContactAPI\Contact.API.Infrastructure\bin\Debug\netcoreapp3.1\Contact.API.Infrastructure.deps.json
+C:\Users\enes\Desktop\Software\apigateway\Microservices\Services\ContactAPI\Contact.API.Infrastructure\bin\Debug\netcoreapp3.1\Contact.API.Infrastructure.dll
+C:\Users\enes\Desktop\Software\apigateway\Microservices\Services\ContactAPI\Contact.API.Infrastructure\bin\Debug\netcoreapp3.1\Contact.API.Infrastructure.pdb
+C:\Users\enes\Desktop\Software\apigateway\Microservices\Services\ContactAPI\Contact.API.Infrastructure\bin\Debug\netcoreapp3.1\Contact.API.Models.dll
+C:\Users\enes\Desktop\Software\apigateway\Microservices\Services\ContactAPI\Contact.API.Infrastructure\bin\Debug\netcoreapp3.1\Contact.API.Models.pdb
+C:\Users\enes\Desktop\Software\apigateway\Microservices\Services\ContactAPI\Contact.API.Infrastructure\obj\Debug\netcoreapp3.1\Contact.API.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\enes\Desktop\Software\apigateway\Microservices\Services\ContactAPI\Contact.API.Infrastructure\obj\Debug\netcoreapp3.1\Contact.API.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enes\Desktop\Software\apigateway\Microservices\Services\ContactAPI\Contact.API.Infrastructure\obj\Debug\netcoreapp3.1\Contact.API.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\enes\Desktop\Software\apigateway\Microservices\Services\ContactAPI\Contact.API.Infrastructure\obj\Debug\netcoreapp3.1\Contact.API.Infrastructure.AssemblyInfo.cs
+C:\Users\enes\Desktop\Software\apigateway\Microservices\Services\ContactAPI\Contact.API.Infrastructure\obj\Debug\netcoreapp3.1\Contact.API.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\enes\Desktop\Software\apigateway\Microservices\Services\ContactAPI\Contact.API.Infrastructure\obj\Debug\netcoreapp3.1\Contact.API.Infrastructure.csproj.CopyComplete
+C:\Users\enes\Desktop\Software\apigateway\Microservices\Services\ContactAPI\Contact.API.Infrastructure\obj\Debug\netcoreapp3.1\Contact.API.Infrastructure.dll
+C:\Users\enes\Desktop\Software\apigateway\Microservices\Services\ContactAPI\Contact.API.Infrastructure\obj\Debug\netcoreapp3.1\Contact.API.Infrastructure.pdb
