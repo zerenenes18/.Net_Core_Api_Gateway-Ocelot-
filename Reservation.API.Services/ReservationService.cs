@@ -6,15 +6,9 @@ using System.Text;
 
 namespace Reservation.API.Services
 {
-    public class ReservationService: IReservaitonService
+    public class ReservationService : IReservaitonService
     {
-        private readonly IReservaitonService _reservaitonService;
-
-        public ReservationService(IReservaitonService reservaitonService)
-        {
-            _reservaitonService = reservaitonService;
-        }
-
+      
         public ReservationDTO GetReservationByBkgNumber(int bkgNumber)
         {
             return new ReservationDTO()

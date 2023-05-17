@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Reservation.API.Infrastructure;
+using Reservation.API.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -15,13 +16,18 @@ namespace Reservation.API.Controllers
 
         IReservaitonService _reservationService;
 
-        public ReservationController()
+        public ReservationController(IReservaitonService reservaitonService)
         {
-
+            _reservationService = reservaitonService;
         }
 
 
+        [HttpGet("{bkg}")]
 
+        public ReservationDTO Get(int bkg)
+        {
+            return _reservationService.GetReservationByBkgNumber(bkg);
+        }
 
     }
 }

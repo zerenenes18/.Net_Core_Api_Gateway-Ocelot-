@@ -30,6 +30,9 @@
             "projectReferences": {
               "C:\\Users\\enes\\Desktop\\Software\\apigateway\\Microservices\\Services\\ReservationAPI\\Reservation.API.Infrastructure\\Reservation.API.Infrastructure.csproj": {
                 "projectPath": "C:\\Users\\enes\\Desktop\\Software\\apigateway\\Microservices\\Services\\ReservationAPI\\Reservation.API.Infrastructure\\Reservation.API.Infrastructure.csproj"
+              },
+              "C:\\Users\\enes\\Desktop\\Software\\apigateway\\Microservices\\Services\\ReservationAPI\\Reservation.API.Models\\Reservation.API.Models.csproj": {
+                "projectPath": "C:\\Users\\enes\\Desktop\\Software\\apigateway\\Microservices\\Services\\ReservationAPI\\Reservation.API.Models\\Reservation.API.Models.csproj"
               }
             }
           }

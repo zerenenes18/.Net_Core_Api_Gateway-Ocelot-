@@ -29,7 +29,7 @@ namespace Reservation.API
         {
             services.AddControllers();
 
-            services.AddScoped<IReservaitonService, ReservationService>
+            services.AddScoped<IReservaitonService, ReservationService>();
 
 
         }

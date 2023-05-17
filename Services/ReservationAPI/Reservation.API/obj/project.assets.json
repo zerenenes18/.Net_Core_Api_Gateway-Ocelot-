@@ -29,7 +29,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
-          "Reservation.API.Infrastructure": "1.0.0"
+          "Reservation.API.Infrastructure": "1.0.0",
+          "Reservation.API.Models": "1.0.0"
         },
         "compile": {
           "bin/placeholder/Reservation.API.Services.dll": {}

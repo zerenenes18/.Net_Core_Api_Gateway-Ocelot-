@@ -19,3 +19,15 @@ C:\Users\enes\Desktop\Software\apigateway\Microservices\APIGateway\obj\Debug\net
 C:\Users\enes\Desktop\Software\apigateway\Microservices\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.dll
 C:\Users\enes\Desktop\Software\apigateway\Microservices\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.pdb
 C:\Users\enes\Desktop\Software\apigateway\Microservices\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.genruntimeconfig.cache
+C:\Users\enes\Desktop\Software\apigateway\Microservices\APIGateway\bin\Debug\netcoreapp3.1\oselot.json
+C:\Users\enes\Desktop\Software\apigateway\Microservices\APIGateway\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\enes\Desktop\Software\apigateway\Microservices\APIGateway\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\enes\Desktop\Software\apigateway\Microservices\APIGateway\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\enes\Desktop\Software\apigateway\Microservices\APIGateway\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\enes\Desktop\Software\apigateway\Microservices\APIGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\enes\Desktop\Software\apigateway\Microservices\APIGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\enes\Desktop\Software\apigateway\Microservices\APIGateway\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\enes\Desktop\Software\apigateway\Microservices\APIGateway\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\enes\Desktop\Software\apigateway\Microservices\APIGateway\bin\Debug\netcoreapp3.1\Ocelot.dll
+C:\Users\enes\Desktop\Software\apigateway\Microservices\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\enes\Desktop\Software\apigateway\Microservices\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.csproj.CopyComplete

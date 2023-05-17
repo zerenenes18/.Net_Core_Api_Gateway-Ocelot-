@@ -6,6 +6,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Services\ReservationAPI\Reservation.API.Infrastructure\Reservation.API.Infrastructure.csproj" />
+    <ProjectReference Include="..\Services\ReservationAPI\Reservation.API.Models\Reservation.API.Models.csproj" />
   </ItemGroup>
 
 </Project>

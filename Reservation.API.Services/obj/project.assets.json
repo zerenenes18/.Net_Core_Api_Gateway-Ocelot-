@@ -41,7 +41,8 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "Reservation.API.Infrastructure >= 1.0.0"
+      "Reservation.API.Infrastructure >= 1.0.0",
+      "Reservation.API.Models >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -73,6 +74,9 @@
           "projectReferences": {
             "C:\\Users\\enes\\Desktop\\Software\\apigateway\\Microservices\\Services\\ReservationAPI\\Reservation.API.Infrastructure\\Reservation.API.Infrastructure.csproj": {
               "projectPath": "C:\\Users\\enes\\Desktop\\Software\\apigateway\\Microservices\\Services\\ReservationAPI\\Reservation.API.Infrastructure\\Reservation.API.Infrastructure.csproj"
+            },
+            "C:\\Users\\enes\\Desktop\\Software\\apigateway\\Microservices\\Services\\ReservationAPI\\Reservation.API.Models\\Reservation.API.Models.csproj": {
+              "projectPath": "C:\\Users\\enes\\Desktop\\Software\\apigateway\\Microservices\\Services\\ReservationAPI\\Reservation.API.Models\\Reservation.API.Models.csproj"
             }
           }
         }
